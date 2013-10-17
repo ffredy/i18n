@@ -29,7 +29,7 @@ sk:
       send_instructions: "Do niekoľkých minút obdržíte e-mail s návodom na zmenu Vášho hesla."
       updated: "Vaše heslo bolo úspešne zmenené a práve ste prihlásený."
       updated_not_active: "Vaše heslo bolo úspešne zmenené."
-      send_paranoid_instructions: "Pokiaľ sa Váša e-mailová adresa nachádza v našej databáze, tak obdržíte správu s odkazom na obnovu hesla."
+      send_paranoid_instructions: "Pokiaľ sa Vaša e-mailová adresa nachádza v našej databáze, tak obdržíte správu s odkazom na obnovu hesla."
     confirmations:
       send_instructions: "Do niekoľkých minút obdržíte e-mail s návodom ako overiť pravosť Vášho účtu."
       send_paranoid_instructions: "Ak sa Vaša e-mailová adresa nachádza v našej databáze, do niekoľkých minút obdržíte e-mail s návodom ako potvrdiť pravosť Vášho účtu."
